@@ -1,0 +1,15 @@
+/Users/jesseryan/Projects/Module06Strings/String/bin/Debug/net7.0/String
+/Users/jesseryan/Projects/Module06Strings/String/bin/Debug/net7.0/String.deps.json
+/Users/jesseryan/Projects/Module06Strings/String/bin/Debug/net7.0/String.runtimeconfig.json
+/Users/jesseryan/Projects/Module06Strings/String/bin/Debug/net7.0/String.dll
+/Users/jesseryan/Projects/Module06Strings/String/bin/Debug/net7.0/String.pdb
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.csproj.AssemblyReference.cache
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.AssemblyInfoInputs.cache
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.AssemblyInfo.cs
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.csproj.CoreCompileInputs.cache
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.dll
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/refint/String.dll
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.pdb
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/String.genruntimeconfig.cache
+/Users/jesseryan/Projects/Module06Strings/String/obj/Debug/net7.0/ref/String.dll
